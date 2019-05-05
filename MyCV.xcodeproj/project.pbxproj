@@ -7,23 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1218F6A2275DC7100C29B15 /* ProjectDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1218F692275DC7100C29B15 /* ProjectDetailViewController.swift */; };
+		E127A93B226E3D8F00007B64 /* Hobby.swift in Sources */ = {isa = PBXBuildFile; fileRef = E127A93A226E3D8F00007B64 /* Hobby.swift */; };
+		E127A93D226E40EA00007B64 /* HobbyDetailCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E127A93C226E40EA00007B64 /* HobbyDetailCollectionViewCell.swift */; };
+		E164B24C226E1D7D00F3F41F /* HobbyDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164B24B226E1D7D00F3F41F /* HobbyDetailTableViewController.swift */; };
+		E164B24E226E250D00F3F41F /* HobbyDetailCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164B24D226E250D00F3F41F /* HobbyDetailCollectionViewController.swift */; };
 		E1B7343E2268A3F200D347CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B7343D2268A3F200D347CE /* AppDelegate.swift */; };
-		E1B734402268A3F200D347CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B7343F2268A3F200D347CE /* ViewController.swift */; };
+		E1B734402268A3F200D347CE /* PersonalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B7343F2268A3F200D347CE /* PersonalViewController.swift */; };
 		E1B734432268A3F200D347CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1B734412268A3F200D347CE /* Main.storyboard */; };
-		E1B734462268A3F200D347CE /* MyCV.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1B734442268A3F200D347CE /* MyCV.xcdatamodeld */; };
 		E1B734482268A3F400D347CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1B734472268A3F400D347CE /* Assets.xcassets */; };
 		E1B7344B2268A3F400D347CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1B734492268A3F400D347CE /* LaunchScreen.storyboard */; };
+		E1C0416822736C9B00E662CF /* ProjectsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C0416722736C9B00E662CF /* ProjectsViewController.swift */; };
+		E1C0416A22736CBE00E662CF /* ProjectCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C0416922736CBE00E662CF /* ProjectCollectionViewCell.swift */; };
+		E1C0416E2273984700E662CF /* Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C0416D2273984700E662CF /* Project.swift */; };
+		E1C86CCE226F27F900C9786F /* DetailPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C86CCD226F27F900C9786F /* DetailPhotoViewController.swift */; };
+		E1C86CD0226F5FCE00C9786F /* HobbyDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C86CCF226F5FCE00C9786F /* HobbyDetailTableViewCell.swift */; };
+		E1DD1E04226CF77500E344F5 /* HobbyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DD1E03226CF77500E344F5 /* HobbyTableViewCell.swift */; };
+		E1EF99362269C40F005ACDB2 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1EF99352269C40F005ACDB2 /* PageViewController.swift */; };
+		E1EF99382269C464005ACDB2 /* GreetingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1EF99372269C464005ACDB2 /* GreetingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E1218F692275DC7100C29B15 /* ProjectDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectDetailViewController.swift; sourceTree = "<group>"; };
+		E127A93A226E3D8F00007B64 /* Hobby.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hobby.swift; sourceTree = "<group>"; };
+		E127A93C226E40EA00007B64 /* HobbyDetailCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HobbyDetailCollectionViewCell.swift; sourceTree = "<group>"; };
+		E164B24B226E1D7D00F3F41F /* HobbyDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HobbyDetailTableViewController.swift; sourceTree = "<group>"; };
+		E164B24D226E250D00F3F41F /* HobbyDetailCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HobbyDetailCollectionViewController.swift; sourceTree = "<group>"; };
 		E1B7343A2268A3F200D347CE /* MyCV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1B7343D2268A3F200D347CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E1B7343F2268A3F200D347CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E1B7343F2268A3F200D347CE /* PersonalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalViewController.swift; sourceTree = "<group>"; };
 		E1B734422268A3F200D347CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E1B734452268A3F200D347CE /* MyCV.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyCV.xcdatamodel; sourceTree = "<group>"; };
 		E1B734472268A3F400D347CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1B7344A2268A3F400D347CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1B7344C2268A3F400D347CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1C0416722736C9B00E662CF /* ProjectsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsViewController.swift; sourceTree = "<group>"; };
+		E1C0416922736CBE00E662CF /* ProjectCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectCollectionViewCell.swift; sourceTree = "<group>"; };
+		E1C0416D2273984700E662CF /* Project.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project.swift; sourceTree = "<group>"; };
+		E1C86CCD226F27F900C9786F /* DetailPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPhotoViewController.swift; sourceTree = "<group>"; };
+		E1C86CCF226F5FCE00C9786F /* HobbyDetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HobbyDetailTableViewCell.swift; sourceTree = "<group>"; };
+		E1DD1E03226CF77500E344F5 /* HobbyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HobbyTableViewCell.swift; sourceTree = "<group>"; };
+		E1EF99352269C40F005ACDB2 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		E1EF99372269C464005ACDB2 /* GreetingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +61,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E164B24F226E251600F3F41F /* Hobby Detail */ = {
+			isa = PBXGroup;
+			children = (
+				E164B24B226E1D7D00F3F41F /* HobbyDetailTableViewController.swift */,
+				E164B24D226E250D00F3F41F /* HobbyDetailCollectionViewController.swift */,
+				E1C86CCD226F27F900C9786F /* DetailPhotoViewController.swift */,
+				E127A93C226E40EA00007B64 /* HobbyDetailCollectionViewCell.swift */,
+				E1C86CCF226F5FCE00C9786F /* HobbyDetailTableViewCell.swift */,
+			);
+			path = "Hobby Detail";
+			sourceTree = "<group>";
+		};
 		E1B734312268A3F200D347CE = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +92,63 @@
 		E1B7343C2268A3F200D347CE /* MyCV */ = {
 			isa = PBXGroup;
 			children = (
-				E1B7343D2268A3F200D347CE /* AppDelegate.swift */,
-				E1B7343F2268A3F200D347CE /* ViewController.swift */,
+				E1C0416422734DF100E662CF /* Model */,
+				E1DD1E02226CC73400E344F5 /* Intro Pages */,
+				E1C0416622734F5400E662CF /* Projects */,
+				E1DD1E05226CF92400E344F5 /* Personal Info */,
+				E164B24F226E251600F3F41F /* Hobby Detail */,
 				E1B734412268A3F200D347CE /* Main.storyboard */,
-				E1B734472268A3F400D347CE /* Assets.xcassets */,
-				E1B734492268A3F400D347CE /* LaunchScreen.storyboard */,
 				E1B7344C2268A3F400D347CE /* Info.plist */,
-				E1B734442268A3F200D347CE /* MyCV.xcdatamodeld */,
+				E1EF99392269C471005ACDB2 /* Support files */,
 			);
 			path = MyCV;
+			sourceTree = "<group>";
+		};
+		E1C0416422734DF100E662CF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E127A93A226E3D8F00007B64 /* Hobby.swift */,
+				E1C0416D2273984700E662CF /* Project.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E1C0416622734F5400E662CF /* Projects */ = {
+			isa = PBXGroup;
+			children = (
+				E1C0416722736C9B00E662CF /* ProjectsViewController.swift */,
+				E1C0416922736CBE00E662CF /* ProjectCollectionViewCell.swift */,
+				E1218F692275DC7100C29B15 /* ProjectDetailViewController.swift */,
+			);
+			path = Projects;
+			sourceTree = "<group>";
+		};
+		E1DD1E02226CC73400E344F5 /* Intro Pages */ = {
+			isa = PBXGroup;
+			children = (
+				E1EF99352269C40F005ACDB2 /* PageViewController.swift */,
+				E1EF99372269C464005ACDB2 /* GreetingsViewController.swift */,
+			);
+			path = "Intro Pages";
+			sourceTree = "<group>";
+		};
+		E1DD1E05226CF92400E344F5 /* Personal Info */ = {
+			isa = PBXGroup;
+			children = (
+				E1B7343F2268A3F200D347CE /* PersonalViewController.swift */,
+				E1DD1E03226CF77500E344F5 /* HobbyTableViewCell.swift */,
+			);
+			path = "Personal Info";
+			sourceTree = "<group>";
+		};
+		E1EF99392269C471005ACDB2 /* Support files */ = {
+			isa = PBXGroup;
+			children = (
+				E1B7343D2268A3F200D347CE /* AppDelegate.swift */,
+				E1B734472268A3F400D347CE /* Assets.xcassets */,
+				E1B734492268A3F400D347CE /* LaunchScreen.storyboard */,
+			);
+			path = "Support files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +222,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1B734402268A3F200D347CE /* ViewController.swift in Sources */,
+				E1C0416A22736CBE00E662CF /* ProjectCollectionViewCell.swift in Sources */,
+				E164B24C226E1D7D00F3F41F /* HobbyDetailTableViewController.swift in Sources */,
+				E1DD1E04226CF77500E344F5 /* HobbyTableViewCell.swift in Sources */,
+				E1B734402268A3F200D347CE /* PersonalViewController.swift in Sources */,
+				E1EF99382269C464005ACDB2 /* GreetingsViewController.swift in Sources */,
+				E1218F6A2275DC7100C29B15 /* ProjectDetailViewController.swift in Sources */,
+				E1C86CCE226F27F900C9786F /* DetailPhotoViewController.swift in Sources */,
+				E164B24E226E250D00F3F41F /* HobbyDetailCollectionViewController.swift in Sources */,
 				E1B7343E2268A3F200D347CE /* AppDelegate.swift in Sources */,
-				E1B734462268A3F200D347CE /* MyCV.xcdatamodeld in Sources */,
+				E127A93D226E40EA00007B64 /* HobbyDetailCollectionViewCell.swift in Sources */,
+				E127A93B226E3D8F00007B64 /* Hobby.swift in Sources */,
+				E1EF99362269C40F005ACDB2 /* PageViewController.swift in Sources */,
+				E1C0416822736C9B00E662CF /* ProjectsViewController.swift in Sources */,
+				E1C86CD0226F5FCE00C9786F /* HobbyDetailTableViewCell.swift in Sources */,
+				E1C0416E2273984700E662CF /* Project.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,19 +436,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		E1B734442268A3F200D347CE /* MyCV.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				E1B734452268A3F200D347CE /* MyCV.xcdatamodel */,
-			);
-			currentVersion = E1B734452268A3F200D347CE /* MyCV.xcdatamodel */;
-			path = MyCV.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = E1B734322268A3F200D347CE /* Project object */;
 }
